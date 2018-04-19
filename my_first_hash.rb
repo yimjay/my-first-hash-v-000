@@ -1,6 +1,6 @@
 def my_hash
   your_hash = {
-    "movie" = "Pride & Prejudic"
+    "movie" => "Pride & Prejudice"
   }
 end
 
